@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello I'm H3bi
 
-<!--
-**h3bi-0/h3bi-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills  
+<img src="https://skillicons.dev/icons?i=cpp,c,py,java,html,css,js"/>
 
-Here are some ideas to get you started:
+### Frameworks:
+<img src="https://skillicons.dev/icons?i=flask,react"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database:
+<img src="https://skillicons.dev/icons?i=postgres,sqlite"/>
+
+### Other
+<img src="https://skillicons.dev/icons?i=bash"/>                  
+
+## Operating Systems:
+ <img src="https://skillicons.dev/icons?i=windows,linux,apple"/>
+ <img src="https://skillicons.dev/icons?i=ubuntu,kali"/>
