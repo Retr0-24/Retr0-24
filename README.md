@@ -1,4 +1,12 @@
 # Hello I'm H3bi
+  <div id="Bio" align="center">
+    <h2>About Me</h2>
+    <ul>
+      <li>I'm a security nerd and a full stack developer</li>
+      <li>I'm passionate about becoming a senior red team operator</li>
+      <li>Focusing on learning the latest technologies right now.</li>
+    </ul>
+  </div>
 
 ## My Skills  
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
