@@ -1,6 +1,5 @@
-# Hello I'm H3bi
   <div id="Bio" align="center">
-    <h2>About Me</h2>
+    <h2>Hello I'm H3bi</h2>
     <ul>
       <li>I'm a security nerd and a full stack developer</li>
       <li>I'm passionate about becoming a senior red team operator</li>
