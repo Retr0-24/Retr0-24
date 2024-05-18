@@ -2,7 +2,7 @@
     <h2>Hello I'm H3bi</h2>
     <ul>
       <li>I'm a security nerd and a full stack developer</li>
-      <li>I'm passionate about becoming a senior red team operator</li>
+      <li>I'm passionate about becoming a SOC Tier 3 Analyst</li>
       <li>Focusing on learning the latest technologies right now.</li>
     </ul>
   </div>
