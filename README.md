@@ -1,5 +1,5 @@
   <div id="Bio" align="center">
-    <h2>Hello I'm B3y0nd</h2>
+    <h2>Hello I'm Lolth</h2>
     <ul>
       <li>I'm a security nerd</li>
       <li>Focusing on learning cyber security right now.</li>
