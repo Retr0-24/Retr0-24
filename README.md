@@ -2,25 +2,35 @@
     <h2>Hello I'm Lolth</h2>
     <ul>
       <li>I'm a security nerd</li>
-      <li>Focusing on learning cyber security right now.</li>
+      <li>Focusing on learning cyber security right now</li>
+      <li>SOC Analyst</li>
     </ul>
   </div>
 
-## My Skills 
+## Skills
+
+
+| Skill                                       		      | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SOAR / EDR                      | <a href="https://github.com/Lolth-207/soar_edr_automationlab ">SOAR EDR Lab</a>|
+
+### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Ja" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Ht" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Cs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Js" width="40" height="40"/>&nbsp;
 
+## Tools
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
 
 ### Frameworks
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Fl" width="40" height="40"/>&nbsp;
-
-### Database
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="Sqlalchemy" alt="Sq" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sq" width="40" height="40"/>&nbsp;
 
 ### Other
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Ba" width="40" height="40"/>&nbsp;
