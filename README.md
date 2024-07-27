@@ -3,7 +3,6 @@
     <ul>
       <li>I'm a security nerd</li>
       <li>Focusing on learning cyber security right now</li>
-      <li>SOC Analyst</li>
     </ul>
   </div>
 
