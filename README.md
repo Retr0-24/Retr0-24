@@ -1,5 +1,4 @@
   <div id="Bio" align="center">
-    <h2>Hello</h2>
     <ul>
       <li>I'm a security nerd</li>
       <li>Focusing on learning cyber security right now</li>
