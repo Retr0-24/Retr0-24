@@ -12,6 +12,7 @@
 |-----------------------------------------------|----------------------------|
 | SOAR / EDR                      | <a href="https://github.com/Lolth-207/soar_edr_automationlab ">SOAR EDR Lab</a>|
 | Malware Analysis                | <a href="https://github.com/Lolth-207/malware_analysis ">Malware Folder</a>|
+| SIEM / Adversary Emulation      | <a href="https://github.com/Twilight-207/siem_adversary_homelab "> SIEM and Adversary Lab</a>
 
 ### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
