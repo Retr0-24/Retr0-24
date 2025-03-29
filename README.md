@@ -1,27 +1,18 @@
   <div id="Bio" align="center">
     <ul>
-      <li>I'm a security nerd</li>
-      <li>Focusing on learning cyber security right now</li>
+      <li>Focusing on learning game development</li>
     </ul>
   </div>
 
-## Skills
-
-
-| Skill                                       		      | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SOAR / EDR                      | <a href="https://github.com/Lolth-207/soar_edr_automationlab ">SOAR EDR Lab</a>|
-| Malware Analysis                | <a href="https://github.com/Lolth-207/malware_analysis ">Malware Folder</a>|
-| SIEM / Adversary Emulation      | <a href="https://github.com/Twilight-207/siem_adversary_homelab "> SIEM and Adversary Lab</a>
+### Game Engine
+<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Un" width="40" height="40"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UnrealEngine" alt="Ue" width="40" height="40"/>&nbsp; -->
 
 ### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Ja" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Html5" alt="Ht" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Css3" alt="Cs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Js" width="40" height="40"/>&nbsp;
-
-## Tools
 
 ### Frameworks
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -36,5 +27,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Li" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Wi" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Ub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Ub" width="40" height="40"/>&nbsp;
 
