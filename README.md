@@ -1,12 +1,3 @@
-  <div id="Bio" align="center">
-    <ul>
-      <li>Focusing on learning game development</li>
-    </ul>
-  </div>
-
-### Game Engine
-<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Un" width="40" height="40"/>&nbsp;
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" title="UnrealEngine" alt="Ue" width="40" height="40"/>&nbsp; -->
 
 ### Languages
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
